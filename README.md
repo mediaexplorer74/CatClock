@@ -45,7 +45,7 @@ C# (csharp)
 ## References
 - [MS Learn University](https://learn.microsoft.com/en-us/samples/xamarin/xamarin-forms-samples/catclock/)
 - [CatClock source code](https://github.com/xamarin/xamarin-forms-samples/tree/main/CatClock)
-- [SkiaSharp Graphics for Xamarin Forms: Youtube webinar by Charles Ppetzold](https://www.youtube.com/watch?v=fF0tzA6wUhA)
+- [SkiaSharp Graphics for Xamarin Forms: Youtube webinar by Charles Petzold](https://www.youtube.com/watch?v=fF0tzA6wUhA)
 
 ## .
 AS IS. No support. RnD only.
